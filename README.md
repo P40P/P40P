@@ -7,6 +7,7 @@ We are MAKERS
 Project 40 was created by Giuseppe and Denis in January Our goal is to cretae product and make experiment becase we belive that EVERY PRODUCT and TECHNOLOGY is just at 40% of his POTENTIAL
 
 * 🌍  We are based in Torre del Greco(Naples)
+* 🖥️  See my portfolio at [Project40](http://https://project40p.github.io/Project40/)
 * ✉️  You can contact us at [projectpercent40@gmail.com](mailto:projectpercent40@gmail.com)
 
 ### Skills
