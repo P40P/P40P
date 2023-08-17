@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 We are MAKERS
 -------------
 
-Project 40 was created by Giuseppe and Denis in January Our goal is to cretae product and make experiment becase we belive that EVERY PRODUCT and TECHNOLOGY is just at 40% of his POTENTIAL
+Project 40 was created by Giuseppe and Denis in January 2022 Our goal is to cretae product and make experiment becase we belive that EVERY PRODUCT and TECHNOLOGY is just at 40% of his POTENTIAL
 
 * 🌍  We are based in Torre del Greco(Naples)
 * 🖥️  Our website [Project40](https://project40p.github.io/Project40/)
